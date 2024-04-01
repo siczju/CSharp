@@ -1,2 +1,2 @@
-# Java
-Estudos sobre a linguagem de programação Java.
+# C#
+Estudos sobre a linguagem de programação C#.
