@@ -1,0 +1,15 @@
+
+    C# -> Linguagem de programação (regras sintáticas pra escrever os programas)
+    .NET -> plataforma de desenvolvimento para criar diversos tipos de aplicações, podendo usar várias linguagens de programação.
+
+    .NET -> tem dois componentes:
+        -> BCL - Base Class Library (Biblioteca de classes base). Biblioteca é um conjunto de funcionalidades que podemos usar nos nossos programas. O .NET ja disponibiliza várias bibliotecas que voce pode usar para criar aplicações.
+        -> CLR - Common Language Runtime (Máquina Virtual). É uma maquina virtual que executa os programas feitos no .NET, é como se fosse uma JVM em java. Ela possui garbage collection (objetos não utilizados são automaticamente desalocados da memórias)
+
+    .NET -> é uma especificação chamada .NET standard, é uma documentação contendo uma listagens e a descrição de quais recursos o .NET deve ter, porém para o .NET existir ele deve ser implementado, ai vem as várias implementações dele:
+     .NET framework (roda só em windows), 
+     mono (abriu o .net para utilização multiplataformas), 
+     Xamarin (baseado no mono, para criação de aplicativos para disposivos mveis, ios, android, macos), 
+     por fim, .NET Core (Código aberto, multiplataforma)
+
+     ASP.NET -> framework de .NET framework, usado para aplicações web.

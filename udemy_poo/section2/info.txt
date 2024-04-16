@@ -1,0 +1,9 @@
+    Conteudos:
+ -> C# e .NET
+ -> Compilação e interpretação
+ -> Estrutura de uma aplicação C# .NET
+
+ -> Instalação do Visual Studio no Windows
+ -> Primeiros programa em C# no Visual Studio
+ -> Estrutura de um programa C#
+ -> Dicas do Visual Studio

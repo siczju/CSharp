@@ -1,0 +1,14 @@
+
+    Compilação e interpretação e Como funciona a Common Language Runtime (Máquina Virtual)
+
+    Qnd escrevemos um  programa, nós chamamos isso de código fonte (o que o programador escreve usando a linguagem de programação), esse código, ele não é compreendido pelo computador, para o computador ter condição de executar esse código fonte, ele tem que ser transformado em código executavel, para isso temos 2 processos: A compilação e a Interpretação.
+        Linguagens Compiladas: C, C++.
+        Linguagens interpretadas: PHP, JavaScript.
+        Linguagens Pré-Compiladas + máquina virtual: Java. C#.
+
+    Quando a linguagem é compilada -> o programador escreve um programa, esse programa é compilado para ele executar sobre o sistema operacional. Então se eu quiser compilar para o windows, eu vou ter um compilador especifico para o windows para gerar o código executavel, se for pra Linux, vou ter que ter um compilador para linux...
+
+    Quando a linguagem é interpretada -> pra cada plataforma diferente (windows, linux...) eu vou ter um interpretador que é um software que é capaz de ler o código fonte e ir convertendo gradualmente esse código fonte em executavel ai sim esse código será executado.
+
+    Quando a linguagem é hibrida -> o programador escreve um programa no codigo fonte, esse código que ele escreveu ele passa por um processo de pré-compilação que gera um código intermediario chamado bytecode, esse bytecode fica numa linguagem intermediaria (Common Intermediate Language (CIL)), esta linguagem é agnostica a platorma ou seja, o mesmo codigo roda em plataformas diferentes, esse bytecode sera executado em cima da marquina virtual de cada sistema, seja para mac, windows, linux... -> Vantagem: Tem uma pré-compilação que deixa o codigo correto e mais rapido, e não tera que recompilar o codigo qnd tiver em platarformas diferentes.
+        Codigo fonte -> Compilação -> CLR / Compilação just in time (JIT)

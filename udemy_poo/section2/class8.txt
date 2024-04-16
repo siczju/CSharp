@@ -1,0 +1,6 @@
+    Estrutura de uma aplicação em C#
+ 
+    -> Uma aplicação em uma linguagem orientada a objetos, ela é composta por classes, essas classes podem ser agrupadas em namespace (agrupamento lógico de classes relacionadas) -> podendo ser Entidades: Clientes, pedidos... Para negócios. Services: representa serviços... E etc.
+    -> Assembly (DLL ou EXE) -> agrupamento físico de classes relacionadas (build), podendo ser sobre Financeiro ai todas as classes sobre Financeiro é colocado nesse Assembly.
+    -> Aplicação/solução -> agrupamento de assemblies relacionados. Sistema de comercio eletronico podendo ser composto por diversos assemblies.
+        Solution -> aplicação -> e dentro da aplicação -> temos varios projetos ou seja assemblies
