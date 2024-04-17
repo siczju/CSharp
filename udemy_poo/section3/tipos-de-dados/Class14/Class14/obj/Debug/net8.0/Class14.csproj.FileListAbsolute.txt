@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\bin\Debug\net8.0\Class14.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\bin\Debug\net8.0\Class14.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\bin\Debug\net8.0\Class14.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\bin\Debug\net8.0\Class14.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\bin\Debug\net8.0\Class14.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\refint\Class14.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\Class14.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section2\Class14\Class14\obj\Debug\net8.0\ref\Class14.dll

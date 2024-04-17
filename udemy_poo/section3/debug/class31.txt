@@ -1,0 +1,13 @@
+
+	Lembrar:
+ f9 -> marcar/desmarcar breakpoint
+ f5 -> iniciar/continuar o debug
+ f10 -> executar u passo (pula função)
+ f11 -> executar um passo (entra na função)
+ shift + f11 -> sair do método em execução
+ shift + f5 -> parar debug
+
+	Janelas:
+ -> Watch (expressões personalizadas)
+ -> Autos (expressões "interessantes" detectadas pelo Visual Studio)
+ -> Locals (variáveis locais)

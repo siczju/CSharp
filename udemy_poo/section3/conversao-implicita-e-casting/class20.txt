@@ -1,0 +1,9 @@
+Conversão implicita entre tipos -> Quando um conteudo de um certo tipo pode ser atribuido para uma variavel de outro tipo
+	float x = 4.5f;
+	double y = x;
+	mas se for de double para float, não funcionará pois o double tem 8 bytes e o float 4.
+	
+Casting -> Conversão explicita entre tipos compativeis
+	Se quiser ainda sim passar de double para float, tem um jeito usando o casting:
+	double x = 5.1;
+	float y = (float) x;

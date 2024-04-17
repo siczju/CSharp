@@ -1,0 +1,18 @@
+Console.WriteLine(); -> printf com \n
+Console.Write(): -> printf sem \n
+
+Para delimitar as casas decimais (3.1415161651...):
+	Console.Write(doubleValue.ToString("F2"); -> duas casas decimais
+
+Para imprimir com . de separador invés de , :
+	using System.Globalization;
+	Console.WriteLine("F2", CultureInfo.InvariantCulture));
+
+PlaceHolders:
+	Console.WriteLine("{0} tem {1} anos e tem saldo igual a {2} reais", nome, idade, saldo);
+
+Concatenação:
+	Console.WriteLine("nome + " tem" + idade + " anos e tem saldo igual a" + saldo + " reais");
+
+Interpolação:
+	Console.WriteLine("${nome} tem {idade} anos e tem saldo igual a {saldo:F2} reais");

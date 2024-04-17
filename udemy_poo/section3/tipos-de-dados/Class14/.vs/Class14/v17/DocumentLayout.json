@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section2\\Class14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45ADC49B-1751-4E91-82FB-12DE5DFF1BE6}|Class14\\Class14.csproj|c:\\users\\julin\\onedrive\\\u00E1rea de trabalho\\github\\c#\\udemy_poo\\section2\\class14\\class14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45ADC49B-1751-4E91-82FB-12DE5DFF1BE6}|Class14\\Class14.csproj|solutionrelative:class14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section2\\Class14\\Class14\\Program.cs",
+              "RelativeDocumentMoniker": "Class14\\Program.cs",
+              "ToolTip": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section2\\Class14\\Class14\\Program.cs*",
+              "RelativeToolTip": "Class14\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:17:15.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

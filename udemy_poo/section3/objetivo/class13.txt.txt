@@ -1,0 +1,5 @@
+	Objetivo dessa Section:
+	-> Tipos de dados básico em C#
+	-> Estrutura sequencial (entrada, processamento, saída)
+	-> Operadores (aritméticos, comparativos, lógicos)
+	-> Estruturas de controle (if-else, while, for)

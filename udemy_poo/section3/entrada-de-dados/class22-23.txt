@@ -1,0 +1,36 @@
+	Entrada de dados -> Ler dados que o usuario digitar (teclado)
+	
+	string frase = Console.ReadLine(); -> Le da entrada padrão ate a quebra de linha -> retorna os dados lidos na forma de string
+
+	Split -> string[] vet = frase.Split(' '); -> vai retornar a cada espaço dado -> e adiciona-los nesse caso no vetor de string:
+	
+	dados adicionados no terminal: batata tomate abacaxi
+	0 [batata]
+	1 [tomate]
+	2 [abacaxi]
+
+	se eu quiser adicionar em variaveis:
+	string p1 = vet[0]
+	string p2 = vet[1]
+	string p3 = vet[2]
+
+	Lendo um número inteiro:
+	int n1 = int.Parse(Console.ReadLine()); -> int.Parse(); para transformar a string em inteiro
+
+	Lendo um caractere:
+	char ch = char.Parse(Console.ReadLine());
+
+	Lendo um número double:
+	using System.Globalization;
+	double do = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
+	Ler um nome (unica palavra), sexo (caractere F ou M), idade (inteiro), e altura(double) na mesma linha, armazenando-os em quatro varáveis com os devidos tipos.
+	
+	string[] frase1 = Console.ReadLine().Split(' ');
+    
+    	string nome = frase1[0];
+    	char sexo = char.Parse(frase1[1]);
+    	int idade = int.Parse(frase1[2]);
+    	double altura = double.Parse(frase1[3]);
+    
+    	Console.WriteLine("O {0}, eh do sexo {1}, tem {2} anos, e {3} de altura", nome, sexo, idade, altura);
