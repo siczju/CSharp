@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\bin\Debug\net8.0\Class39.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\bin\Debug\net8.0\Class39.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\bin\Debug\net8.0\Class39.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\bin\Debug\net8.0\Class39.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\bin\Debug\net8.0\Class39.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\refint\Class39.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\Class39.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section4\ObjetoTriângulo\Class39\Class39\obj\Debug\net8.0\ref\Class39.dll

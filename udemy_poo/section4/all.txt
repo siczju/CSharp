@@ -1,0 +1,31 @@
+	Entidade -> ? qualquer coisa que tenha atributos, como Cliente (nome, cpf...), Triangulo (lados, area...)
+
+Classe -> É um tipo estruturado que pode conter (membros):
+	-> Atributos (dados / campos)
+	-> Métodos (funções / operações)
+
+A classe também pode prover muito outros recursos, como:
+	-> Construtores, Sobrecarga, Encapsulamento, Herança, Polimorfismo.
+
+Exemplo:
+ Entidades -> Produto, Cliente, Triangulo.
+ Serviços -> ProdutoService, ClienteService, EmailService, StorageService.
+ Controladores -> ProdutoController, ClienteController
+ Utilitários -> Calculadora, Compactador
+ Outros -> (views, repositórios, gerenciadores...)
+
+Triangulo x = new Triangulo(); // new é necessario qnd trabalha com classes, ele instancia as variaveis, a criação.
+
+instanciação -> alocação dinâmica de memória
+ 
+Stack -> cria as variaveis estáticas
+
+Heap -> quando o tipo da variavel é uma classe, pois ela é instanciada. ou seja o "new Triangulo();" cria um espaço na memoria heap pro objeto,
+ai o x (que esta na memoria stack), vai apontar para esse objeto com todos os atributos da classe Triangulo na memória heap.
+
+->então o x é uma referência para o objeto, é um ponteiro.
+
+Triangulo x, y; -> declarando as variaveis do tipo Triangulo
+x = new Triangulo(); -> instanciando as variaveis
+
+-> Objeto -> são instancias de uma classe

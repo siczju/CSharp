@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\bin\Debug\net8.0\class31.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\bin\Debug\net8.0\class31.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\bin\Debug\net8.0\class31.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\bin\Debug\net8.0\class31.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\bin\Debug\net8.0\class31.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\refint\class31.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\class31.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section3\debug\class31\class31\obj\Debug\net8.0\ref\class31.dll
