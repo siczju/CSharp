@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\users\\julin\\onedrive\\\u00E1rea de trabalho\\github\\c#\\udemy_poo\\section4\\membrosestaticos\\membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\users\\julin\\onedrive\\\u00E1rea de trabalho\\github\\c#\\udemy_poo\\section4\\membrosestaticos\\membrosestaticos\\calculadoraestatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\calculadoraestatica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|c:\\users\\julin\\onedrive\\\u00E1rea de trabalho\\github\\c#\\udemy_poo\\section4\\membrosestaticos\\membrosestaticos\\calculadoradeinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96B535C-BE17-4A8C-8192-CAC95411F302}|MembrosEstaticos\\MembrosEstaticos.csproj|solutionrelative:membrosestaticos\\calculadoradeinstancia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraEstatica.cs",
+              "DocumentMoniker": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\CalculadoraEstatica.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\CalculadoraEstatica.cs",
+              "ToolTip": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\CalculadoraEstatica.cs",
+              "RelativeToolTip": "MembrosEstaticos\\CalculadoraEstatica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:49:32.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalculadoraDeInstancia.cs",
+              "DocumentMoniker": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\CalculadoraDeInstancia.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\CalculadoraDeInstancia.cs",
+              "ToolTip": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\CalculadoraDeInstancia.cs",
+              "RelativeToolTip": "MembrosEstaticos\\CalculadoraDeInstancia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:49:18.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeDocumentMoniker": "MembrosEstaticos\\Program.cs",
+              "ToolTip": "C:\\Users\\Julin\\OneDrive\\\u00C1rea de Trabalho\\github\\C#\\udemy_poo\\section4\\MembrosEstaticos\\MembrosEstaticos\\Program.cs",
+              "RelativeToolTip": "MembrosEstaticos\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAgwCcAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T20:40:00.113Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

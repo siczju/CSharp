@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Estoque",
+    "\\Estoque\\Estoque",
+    "\\Estoque\\Estoque\\Estoque"
   ],
+  "SelectedNode": "\\Estoque\\Estoque\\Estoque\\Produto.cs",
   "PreviewInSolutionExplorer": false
 }

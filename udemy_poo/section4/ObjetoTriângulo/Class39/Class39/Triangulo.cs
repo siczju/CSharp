@@ -11,7 +11,7 @@ namespace Class39
         // Criando um método para obtermos os beneficios de reaproveitamento e delegação
 
         // método para calcular a área
-        public double trianguloArea()
+        public double Area()
         {
             double p = (A + B + C) / 2.0;
             return Math.Sqrt(p * (p - A) * (p - B) * (p - C));

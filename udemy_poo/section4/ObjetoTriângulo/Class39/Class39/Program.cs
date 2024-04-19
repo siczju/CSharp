@@ -31,16 +31,12 @@ namespace Class39
             y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
-            
-
-
-            Console.WriteLine("a");
-
-            double areaX = x.trianguloArea();
+           
+            double areaX = x.Area();
 
             Console.WriteLine("Area de X = " + areaX.ToString("F4", CultureInfo.InvariantCulture));
 
-            double areaY = y.trianguloArea();
+            double areaY = y.Area();
 
             Console.WriteLine("Area de Y = " + areaY.ToString("F4", CultureInfo.InvariantCulture));
 
