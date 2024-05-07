@@ -1,0 +1,103 @@
+	Constrututores, this, sobrecarga, encapsulamento.
+
+ 	Construtor -> É uma operação especial da classe, que executa no momento da instanciação do objeto (new Objeto();).
+ -> uso comuns: iniciar valores dos atributos, permitir ou obrigar que o objeto receba dados / dependencias no momento de sua instanciação (injeção de dependência)
+ -> Se um construtor customizado não for especificado, a classe disponibiliza o construtor padrão:
+  -> Produto p = new Produto();
+ -> É possivel especificar mais de um construtor na mesma classe (sobrecarga)
+ -> Construtor tem o mesmo nome da classe, ou seja se a classe se chamar Produto: public Produto(string nome, double preco){}
+
+ -> Quando instanciamos um objeto, de padrão ele vem com seus atributos vazios (string = null | int/float... = 0), por isso que serve o construtor pra ja começar o objeto com um valor definido
+ -> exemplo de objeto: Não faz sentido um produto sem nome e sem preço, então o construtor faz que seja obrigátorio a iniciação desses valores essenciais.
+
+ 	Sobrecarga -> É um recurso que uma classe possui de oferecer mais de uma operação com o mesmo nome, porém com diferentes listas de parametros.
+ * Proposta de melhoria (Produtos) -> Criar um construtor opcional, o qual recebe apenas nome e preço do produto. A qntde em estoque desse produto deve ser inicializada por padrão como zero. (É possivel incluir um construtor padrão (sem parametros))
+
+ 	Sintaxe Alternativa Para Inicializar Valores -> Serve para inicializar os atributos do objeto, mesmo sem construtores, direto na instanciação:
+  Produto p = new Produto{ // funciona sem o parenteses e com o parenteses () { }
+   Nome = "TV",
+   Preco = 900,
+   Quantidade = 0
+   };
+ -> Para usar essa sintaxe alternativa mas com a classe que ja tenha construtores, voce tem obrigatoriamente que inicializar um construtor vazio na classe: public Produto(){}
+
+ 	This -> Referencia ao proprio objeto. 
+ -> Uso comuns: Diferenciar atributos das variaveis locais (Java), Referenciar outro construtor em um construtor, Passar o proprio objeto como argumento na chamada de um metodo ou construtor.
+  -> Diferenciar atributos das variaveis locais (colocando this antes do atributo faz que ele referencie o atributo da classe, não a variavel local)
+  public Produto(string Nome, double Preco){
+   this.Nome = Nome;
+   this.Preco = Preco;
+   }
+  -> Referenciar outro construtor em um construtor (aproveitar um construtor que ja tenha atribuido o valor de algum atributo) com : this();
+  public Produto(string Nome, double Preco, int Quantidade) : this(Nome, Preco){
+   this.Quantidade = Quantidade;
+  }
+  -> Passar o proprio objeto como argumento na chamada de um metodo ou construtor.
+  class ChessMatch{
+   PlaceNewPiece("e", ..., this);
+   }
+
+	Encapsulamento -> É um principio que consiste em esconder detalhes de implementação de um componente, expondo apenas operações seguras e que o mantenha em um estado consistente.
+ -> Regra de ouro: o objeto deve sempre estar em um estado consistente, e a própria classe deve garantir isso.
+ -> Opção 1 - Implementação Manual:
+  -> Todo atributo é definido como private (privativo da classe, nenhum outro arquivo poderá acessar ele)
+  -> Implementa-se métodos Get e Set para cada atributo, conforme regras de negócio. Get (Ter o valor de algum atributo) | Set (alterar o valor de um atributo)
+  -> não muito usual em C#
+ -> Quando usar atributos privativos, temos outra convenção de nome, underline e o nome do atributo em minusculo: _atributo
+
+	Properties -> São definições de métodos encapsulados, porém expondo uma sintaxe similar à de atributos e não de metódos.
+ -> Melhoram a forma como nós implementamos o encapsulamento, não precisando mais dos gets e setters, com uma sintaze similar a de atributos nao de metodos.
+ -> Sintaxe:
+          public string Nome
+        {
+            get { return _nome; }
+            set { _nome = value; }
+        }
+-> e agora podemos chama-lo como se fosse um atributo:
+p.Nome = "TV"; -> seria o set para adicionar algo ("TV" seria o value)
+p.Nome -> seria o get, retornará o _nome
+
+	Auto Properties -> É uma forma simplificada de se declarar properties que não precisam logicas particulares para as operações get e set.
+ -> public double Preco { get; private set; } -> caso não queria alterar o preço, use o private
+
+	Ordem sugerida para implementação de membros:
+ 1º Atributos privados
+ 2º Propriedades autoimplementadas (auto properties)
+ 3º Construtores
+ 4º Propriedades customizadas (propriedades com lógicas por trás)
+ 5º Outros métodos da classe (incluindo o ToString)
+
+	Modificadores de acesso:
+
+-> assembly -> (o mesmo projeto), uma solução podem ter vários projetos (assemblys)
+
+  Para Membros Da Classe:
+
+- public             - propria classe - subclasses no assembly - classes do assembly - subclasses fora do assembly - classes fora do assembly (todas)
+- protected internal - propria classe - subclasses no assembly - classes do assembly - subclasses fora do assembly
+- internal           - propria classe - subclasses no assembly - classes do assembly
+- protected          - propria classe - subclasses no assembly - subclasses fora do assembly
+- private protected  - propria classe - subclasses no assembly 
+- private            - propria classe 
+	
+-> public 	      -> Todos podem acessa-lo.
+-> protected internal -> Tudo menos classes fora do assembly podem acessa-lo
+-> internal           -> A propria classe, classes e subclasses no mesmo assembly podem acessa-lo.
+-> protected	      -> A propria classe, subclasses fora e no mesmo assembly, ou seja todas subclasses podem acessa-lo.
+-> privated protected -> A propria classe, e subclasses no mesmo assembly podem acessa-lo.
+-> private	      -> Somente a propria classe pode acessa-lo.
+
+  Para Classes:
+
+ - Acesso por qualquer classe:
+public class Product
+
+ - Acesso somente dentro do assembly
+internal class Product
+class Product
+
+ - Acesso somente pela classe-mãe
+private class Product
+Nota: So vai  poder ser acessada pela classe dentro qual ela foi declarada.
+
+

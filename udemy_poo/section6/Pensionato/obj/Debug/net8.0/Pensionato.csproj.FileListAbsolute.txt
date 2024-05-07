@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\bin\Debug\net8.0\Pensionato.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\bin\Debug\net8.0\Pensionato.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\bin\Debug\net8.0\Pensionato.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\bin\Debug\net8.0\Pensionato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\bin\Debug\net8.0\Pensionato.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\refint\Pensionato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\Pensionato.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Pensionato\obj\Debug\net8.0\ref\Pensionato.dll

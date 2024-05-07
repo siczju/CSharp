@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\bin\Debug\net8.0\Matriz.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\bin\Debug\net8.0\Matriz.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\bin\Debug\net8.0\Matriz.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\bin\Debug\net8.0\Matriz.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\bin\Debug\net8.0\Matriz.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\refint\Matriz.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\Matriz.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section6\Exercicios\Matriz\obj\Debug\net8.0\ref\Matriz.dll

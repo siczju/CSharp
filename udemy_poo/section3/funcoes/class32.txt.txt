@@ -1,0 +1,19 @@
+Funções -> representam um processamento que possui um significado
+	-> Math.Sqrt(double)
+	-> Console.WriteLine(string)
+
+Principais vantagens -> modularização, delegação e reaproveitamento.
+
+Dados de entrada e Saida -> funcoes podem receber dados de entrada (parametros ou argumentos) -> podendo ou não retornar uma saida.
+
+-> em orientação a objetos, funções em classes sao chamadas de métodos
+
+Funcoes tem que ser declaradas depois do main (depois das chaves do main)
+
+static void Main() {
+    Console.WriteLine("Hello World");
+}
+
+static int Maior(int n1, int n2, int n3){// como a main é static, pra eu criar outra função que funcione dentro dela, essa função tb terá que ser static
+	...
+}

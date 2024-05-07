@@ -1,0 +1,20 @@
+	Entrada de dados -> Ler dados que o usuario digitar (teclado)
+	
+	string frase = Console.ReadLine(); -> Le da entrada padrão ate a quebra de linha -> retorna os dados lidos na forma de string
+
+	Split -> string[] vet = frase.Split(' '); -> vai retornar a cada espaço dado -> e adiciona-los nesse caso no vetor de string:
+	
+	dados adicionados no terminal: batata tomate abacaxi
+	0 [batata]
+	1 [tomate]
+	2 [abacaxi]
+
+	se eu quiser adicionar em variaveis:
+	string p1 = vet[0]
+	string p2 = vet[1]
+	string p3 = vet[2]
+
+	Lendo um número inteiro:
+	Lendo um caractere:
+	Lendo um número double:
+	Ler um nome (unica palavra), sexo (caractere F ou M), idade (inteiro), e altura(double) na mesma linha, armazenando-os em quatro varáveis com os devidos tipos.

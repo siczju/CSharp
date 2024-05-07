@@ -22,10 +22,41 @@ Stack -> cria as variaveis estáticas
 
 Heap -> quando o tipo da variavel é uma classe, pois ela é instanciada. ou seja o "new Triangulo();" cria um espaço na memoria heap pro objeto,
 ai o x (que esta na memoria stack), vai apontar para esse objeto com todos os atributos da classe Triangulo na memória heap.
-
+ a
 ->então o x é uma referência para o objeto, é um ponteiro.
 
 Triangulo x, y; -> declarando as variaveis do tipo Triangulo
 x = new Triangulo(); -> instanciando as variaveis
 
 -> Objeto -> são instancias de uma classe
+
+Projeto da classe (UML) -> Linguagem gráfica que projeta a classe, antes de programar -> é um retângulo divido em 3 partes, nome da classe, atributos da classe e métodos da classe:
+	
+     Triangulo
+--------------------
+ - A : double
+ - B : double
+ - C : double
+--------------------
++ Area() : double
+
+Beneficios de calcular a area do triangulo por meio de um metodo dentro da classe triangulo?
+ -> Reaproveitamento de codigo (eliminamos codigo repetido)
+ -> Delegação de responsabilidades (quem deve ser responsavel por saber calcular a area do triangulo é o proprio triangulo)
+
+-> Por padrão quando a gente vai imprimir algum objeto, ele vai imprimir o namespace.nomeDaClasse como padrão, porque a gente não configuro oq eh pra mostrar. Para resolvermos isso usamos o ToString:
+-> Toda classe em C# é uma subclasse da classe Object
+
+ -> Object possui os seguintes métodos:
+  * GetType - retorna o tipo do objeto
+  * Equals - compara se o objeto é igual ao outros
+  * GetHashCode - retorna um código hash do objeto
+  * ToString - converte o objeto para string
+
+-> ou seja se implementar o ToString na sua classe, definimos como o objeto é representado na forma de string.
+
+  Membros Estáticos -> Tb são chamados de membros de classe, quem n é membro de classe, é membro de instância (quem não é estático)
+	-> são membros que fazem sentido independentemente de objetos. Não precisam de objetos para serem chamados. São chamados a partir do próprio nome da classe.
+	-> Aplicações comuns -> Declaração de constantes e Classes Utilitarias (classes que fornecem operações simples, q podem ser chamadas de forma isolada, ex: Math.Sqrt(double);, pois não preciso instanciar um objeto do tipo Math 	pra depois chamar o Sqrt, eu so coloco o nome da Classe e a função após.
+	-> Uma classe que possui somente membros estáticos, pode ser uma classe estática, e classes estáticas não podem ser instanciadas
+	-> Não pode chamar uma função que não é estática da mesma classe dentro de uma função estática (main)
