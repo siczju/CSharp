@@ -1,2 +1,2 @@
 # C#
-Estudos sobre a linguagem de programação C#
+Estudos sobre a linguagem de programação C#.
