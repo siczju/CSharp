@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Globalization;
 
 namespace Exercicio3.Entities
 {
@@ -22,5 +23,15 @@ namespace Exercicio3.Entities
         }
 
         public double subTotal() { return Quantity * Price; }
+        public override string ToString()
+        {
+            return Product.Name
+                   + ", $" 
+                   + Price.ToString("F2", CultureInfo.InvariantCulture) 
+                   + ", Quantity: " 
+                   + Quantity 
+                   + ", Subtotal: $" 
+                   + subTotal().ToString("F2", CultureInfo.InvariantCulture);
+        }
     }
 }

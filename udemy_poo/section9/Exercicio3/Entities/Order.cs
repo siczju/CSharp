@@ -16,10 +16,11 @@ namespace Exercicio3.Entities
 
         public Order() { }
 
-        public Order(DateTime moment, OrderStatus status)
+        public Order(DateTime moment, OrderStatus status, Client Client)
         {
             Moment = moment;
             Status = status;
+            this.Client = Client;
         }
 
         public void AddItem(OrderItem item)    { Items.Add(item); }
@@ -27,7 +28,26 @@ namespace Exercicio3.Entities
         
         public double Total()
         {
-            return 2;
+            double sum = 0;
+            foreach (OrderItem item in Items)
+            {
+                sum += item.subTotal();
+            }
+            return sum;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order Moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items:");
+            foreach(OrderItem item in Items)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: $" + Total());
+            return sb.ToString();
         }
     }
 }
