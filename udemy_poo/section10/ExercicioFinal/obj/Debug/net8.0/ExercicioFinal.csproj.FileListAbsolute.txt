@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\bin\Debug\net8.0\ExercicioFinal.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\bin\Debug\net8.0\ExercicioFinal.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\bin\Debug\net8.0\ExercicioFinal.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\bin\Debug\net8.0\ExercicioFinal.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\bin\Debug\net8.0\ExercicioFinal.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\refint\ExercicioFinal.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ExercicioFinal.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioFinal\obj\Debug\net8.0\ref\ExercicioFinal.dll

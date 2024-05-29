@@ -1,0 +1,15 @@
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.exe
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.deps.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.runtimeconfig.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\bin\Debug\net8.0\ExercicioMetodoAbstrato.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.AssemblyInfoInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.AssemblyInfo.cs
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.sourcelink.json
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\refint\ExercicioMetodoAbstrato.dll
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.pdb
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ExercicioMetodoAbstrato.genruntimeconfig.cache
+C:\Users\Julin\OneDrive\Área de Trabalho\github\C#\udemy_poo\section10\ExercicioMetodoAbstrato\obj\Debug\net8.0\ref\ExercicioMetodoAbstrato.dll
